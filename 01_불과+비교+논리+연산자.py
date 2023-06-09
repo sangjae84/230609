@@ -162,4 +162,4 @@ print("bool(0.1)", bool(0.1))
 print("bool('아무거나')", bool("아무거나")) # True
 print("bool('abadfafa')", bool("abadfafa")) # True
 print("bool('')", bool("")) # False => 큰따옴표 혹은 작은따옴표로 감싸진 것만 있을 때
-# string -> bool ???? len(string) > 0 # length(길이)
+# string -> bool ???? len(string) > 0 # length(길이),,
